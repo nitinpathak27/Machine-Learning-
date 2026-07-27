@@ -1,20 +1,27 @@
-# 🏠 House Price Predictor
+# 🤖 Machine Learning
 
-A machine learning project that predicts house prices using regression algorithms. The project includes data preprocessing, feature engineering, model training, evaluation, and prediction using Python, Pandas, NumPy, and Scikit-learn.
+A collection of Machine Learning algorithms, concepts, and implementations built using Python.
 
-## 📌 Features
-- Model Training
+## Topics
+
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Regression
+- Classification
 - Model Evaluation
-- House Price Prediction
+- Hyperparameter Tuning
 
-## 🛠️ Tech Stack
+## Tools & Libraries
+
 - Python
-- Pandas
 - NumPy
+- Pandas
 - Scikit-learn
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
 
-## 📈 Evaluation Metrics
-- R² Score
-- MAE
-- RMSE
+---
+
+This repository is continuously updated as I learn and build new Machine Learning models.
